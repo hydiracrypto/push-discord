@@ -1,10 +1,11 @@
 # push-level-discord Intsal di Termux Android
- ``` pkg install git ``` 
-``` git clone https://github.com/hydiracrypto/push-discord ``` ``` pkg install python ``` 
-``` apt upgrade && update ``` 
-``` pkg install openssl ``` 
-``` pip install requests colorama ``` 
-``` cd push-dc ``` 
-``` python main.py ``` 
+```pkg install git```<br/>
+```git clone https://github.com/hydiracrypto/push-discord```<br/>
+```pkg install python```<br/>
+```apt upgrade && update```<br/>
+```pkg install openssl```<br/>
+```pip install requests colorama```<br/>
+```cd push-dc```<br/>
+```python main.py```<br/>
 
-Created : hydiracrypto
+# Created : hydiracrypto
